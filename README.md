@@ -13,13 +13,13 @@ Open http://localhost:8080 in browser and follow instructions.
 # Assumptions
 
 MVP
-No CI
-No metrics
-No production-level logging
-No tests
-No authentication / authorization / audit
-No Github responses verification, rate limits handling
-Use OpenAPI / Swagger for API meta
+* No CI
+* No metrics
+* No production-level logging
+* No tests
+* No authentication / authorization / audit
+* No Github responses verification, rate limits handling
+* Use OpenAPI / Swagger for API meta
 
 # Goals
 
